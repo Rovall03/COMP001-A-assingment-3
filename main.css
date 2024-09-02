@@ -1,7 +1,7 @@
-body{ background-color: hsl(54, 71%, 92%);font-family: monospace;}
-h2{background-color: rgb(192, 134, 47); }
-footer{background-color:rgb(253, 149, 5) ;font-size: x-large;}
-nav {font-size: large; }
+body{ background-color: hsl(54, 71%, 92%);font-family: monospace;} /*cream background*/
+h2{background-color: rgb(192, 134, 47); }/* "vinyl" in products */
+footer{background-color:rgb(253, 149, 5) ;font-size: x-large;}/*footer orange*/
+nav {font-size: large; }/*home/product/contact  links*/
 p{font-size: larger; font-family: monospace;}
-li {font-size: x-large;}
-h3 {font-size: xx-large;color:  brown; font-weight:bolder;}
+li {font-size: x-large;}/*tracks*/
+h3 {font-size: xx-large;color:  brown; font-weight:bolder;} /*artist title above album*/
